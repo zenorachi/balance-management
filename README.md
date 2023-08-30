@@ -1,2 +1,2 @@
-# Balance management service
+# Balance management
 Balance management service written in Golang.
