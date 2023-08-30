@@ -1,0 +1,17 @@
+DROP TABLE IF EXISTS reserves;
+
+DROP TABLE IF EXISTS operations;
+
+DROP TYPE IF EXISTS operation_type;
+
+DROP TABLE IF EXISTS orders;
+
+DROP TYPE IF EXISTS order_status;
+
+DROP TABLE IF EXISTS accounts;
+
+DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS products;
+
+DROP TYPE  IF EXISTS session_type;
